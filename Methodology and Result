@@ -1,0 +1,60 @@
+#This file contains the Methodology and Result 
+
+Methodology:
+
+1.Identification of orthologous gene hits
+2.Retrieval of protein and nucleotide sequences
+3.Multiple sequence alignment using MAFFT v7.0
+4.Phylogenetic tree construction using MEGA 12
+5.Visualization and annotation using iTOL
+6.heatmap generation
+
+Results for each pathway:
+1.Glutamatergic Synapse Pathway:
+Total genes: 38
+High similarity observed with Strongylocentrotus purpuratus (30.23%–88.98%)
+
+
+2.Neurotrophin Signaling Pathway:
+Total genes: 58
+High similarity with Strongylocentrotus purpuratus (25.85%–91.10%)
+
+
+3.Long-Term Potentiation Pathway:
+Total genes: 8
+High similarity with Drosophila melanogaster (47.83%–89.76%)
+
+
+4.Synaptic Vesicle Cycle Pathway:
+Total genes: 14
+High similarity with Lottia gigantea (47.30%–86.76%)
+
+
+5.Retrograde Endocannabinoid Signaling Pathway:
+Total genes: 8
+High similarity with Strongylocentrotus purpuratus (23.89%–61.70%)
+
+
+6.Dopaminergic Synapse Pathway:
+Total genes: 24
+High similarity with Lottia gigantea (28.46%–92.40%)
+
+
+7.Long-Term Depression Pathway:
+Total genes: 12
+High similarity with Strongylocentrotus purpuratus (28.46%–94.43%)
+
+
+8.GABAergic Synapse Pathway:
+Total genes: 17
+High similarity with Lottia gigantea (30.29%–95.69%)
+
+
+9.Cholinergic Synapse Pathway:
+Total genes: 24
+High similarity with Helobdella robusta (32.82%–86.14%)
+
+
+10.Serotonergic Synapse Pathway:
+Total genes: 17
+High similarity with Lottia gigantea (27.50%–74.23%)
